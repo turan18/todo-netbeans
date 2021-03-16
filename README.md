@@ -10,4 +10,4 @@ A simple To-Do application written in Java, originally implemented in NetBeans. 
 * Retrieve events
 
 ### How events are saved ###
-All events are store locally. After a user clicks the upload button all events are written to a text file names 'infos.txt'. Users are able to 'retreive' their events by clicking the download button which reads/outputs the contents of the 'infos.txt' file.
+All events are stored locally. After a user clicks the upload button all events are written to a text file named 'infos.txt'. Users are able to 'retreive' their events by clicking the download button which reads/outputs the contents of the 'infos.txt' file.
